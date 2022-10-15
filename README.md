@@ -1,4 +1,10 @@
 ### Hi there 👋
+#### I am Reema Khandelwal
+#### I'm currently learning open source 
+#### Currently, I am studying in 3rd year in SRCOEM, Nagpur.
+##### I have worked on RPi, 
+##### I am proficient in programming languages such as C, C++, JAVA, PYTHON.
+##### I have also learnt web dev languages like HTML, CSS, JS, HTML5, SASS.
 
 <!--
 **reemakhandelwal/reemakhandelwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: s...
 - ⚡ Fun fact: ...
 -->
-#Reema Khandelwal
-##I'm currently learning open source
+
