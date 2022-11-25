@@ -23,7 +23,7 @@
             alt="reemakhandelwal2705" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">My Githun Trophies:</h3>
+<h3 align="left">My Github Trophies:</h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
     src="https://github-profile-trophy.vercel.app/?username=reemakhandelwal" alt="reemakhandelwal" /></a> </p>
 
