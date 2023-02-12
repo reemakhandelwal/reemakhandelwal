@@ -25,7 +25,7 @@
 
 <h3 align="left">My Github Trophies:</h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-    src="https://github-profile-trophy.vercel.app/?username=reemakhandelwal" alt="reemakhandelwal" /></a> </p>
+    src="https://github-profile-trophy.vercel.app/?username=reemakhandelwal" alt="reemakhandelwal" /></a> &nbsp </p>
 
 <h3 align="left">My Tech Stack:</h3>
 <h4 align="left">Languages I Use</h4>
