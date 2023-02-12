@@ -103,7 +103,7 @@
 <h3 align="left">My Github Stats:</h3>
 <p><img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=reemakhandelwal&show_icons=true&locale=en&layout=compact"
-        alt="reemakhandelwal" /></p>
+        alt="reemakhandelwal" /><br/></p>
 
 <p>&nbsp;<img align="left"
         src="https://github-readme-stats.vercel.app/api?username=reemakhandelwal&show_icons=true&locale=en"
